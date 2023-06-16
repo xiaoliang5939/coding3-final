@@ -39,4 +39,5 @@ However, the effect now is that you can see the text style at the bottom, and I 
 
 ![image](https://github.com/xiaoliang5939/coding3-final/assets/76156342/3202dd92-b9a4-417c-a024-f4bf947ffb32)
 
-# Final2
+# Final 2
+https://github.com/xiaoliang5939/coding3-final/blob/main/Final%202.ipynb

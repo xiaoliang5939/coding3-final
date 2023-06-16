@@ -41,3 +41,12 @@ However, the effect now is that you can see the text style at the bottom, and I 
 
 # Final 2
 https://github.com/xiaoliang5939/coding3-final/blob/main/Final%202.ipynb
+
+Since the dynamic effect of the first job was unreasonable, I tried to replace other data sets to make a dynamic graph. This time I chose this dataset:https://keras.io/api/datasets/cifar100/
+
+
+This is a dataset of 50,000 32x32 color training images and 10,000 test images, labeled over 100 fine-grained classes that are grouped into 20 coarse-grained classes. See more info at the CIFAR homepage.
+
+![image](https://github.com/xiaoliang5939/coding3-final/assets/76156342/15b3e860-d2ef-469f-9db1-d89562e0b6a5)
+
+In this project, I used another color to make the color look more impactful.

@@ -1,5 +1,7 @@
 # Final1:Colorful characters
 
+Link:
+
 I used color changes to show another visual effect of hieroglyphics.
 
 ![image](https://github.com/xiaoliang5939/coding3-final/assets/76156342/ee2a4803-0997-4c65-9e99-d01fe7a30900)
@@ -15,7 +17,7 @@ At first, I was collecting a lot of ancient Chinese characters for another assig
 
 The text we observe appears as monochromatic static. I aim to enhance its visual appeal by infusing vibrant colors and introducing dynamic movement. Moreover, I intend to convey the shared characteristics of hieroglyphs across various regions. Kindly assist me in reviewing and rectifying any grammatical or vocabulary errors in this paragraph.
 
-Here are some of the data sets I collected
+Here are some of the data sets I collected:https://github.com/xiaoliang5939/coding3-final/blob/main/JPEG.zip
 
 ![image](https://github.com/xiaoliang5939/coding3-final/assets/76156342/a1d72f51-4d4d-40ac-bd43-6249e31460a2)
 

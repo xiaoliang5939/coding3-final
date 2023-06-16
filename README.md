@@ -36,3 +36,5 @@ In the process of testing, I encountered a lot of problems, such as the final gi
 However, the effect now is that you can see the text style at the bottom, and I also like the color.
 
 ![image](https://github.com/xiaoliang5939/coding3-final/assets/76156342/3202dd92-b9a4-417c-a024-f4bf947ffb32)
+
+# Final2

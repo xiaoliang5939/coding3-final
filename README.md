@@ -59,6 +59,9 @@ In this project, I used another color to make the color look more impactful.
 
 <img width="574" alt="image" src="https://github.com/xiaoliang5939/coding3-final/assets/76156342/d8612c89-c8cf-425b-a894-03e193183516">
 
-<img width="650" alt="image" src="https://github.com/xiaoliang5939/coding3-final/assets/76156342/85d1b9d7-9258-4b2e-9259-54e82139f566">
+
+
+Usage model:GANs
+Thanks：Jenny Jiang、Nic Pan
 
 

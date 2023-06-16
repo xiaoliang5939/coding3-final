@@ -2,6 +2,8 @@
 
 Link:https://github.com/xiaoliang5939/coding3-final/blob/main/Final%201.ipynb
 
+Video link：https://artslondon-my.sharepoint.com/:v:/g/personal/x_liang0220222_arts_ac_uk/EXIyUu6Zmt9AoyDrOMU3RD8BY477F65DC5qqZAZM4xnzkw?e=QP07gn
+
 I used color changes to show another visual effect of hieroglyphics.
 
 ![image](https://github.com/xiaoliang5939/coding3-final/assets/76156342/ee2a4803-0997-4c65-9e99-d01fe7a30900)

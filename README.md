@@ -52,3 +52,13 @@ This is a dataset of 50,000 32x32 color training images and 10,000 test images, 
 ![image](https://github.com/xiaoliang5939/coding3-final/assets/76156342/15b3e860-d2ef-469f-9db1-d89562e0b6a5)
 
 In this project, I used another color to make the color look more impactful.
+
+<img width="644" alt="image" src="https://github.com/xiaoliang5939/coding3-final/assets/76156342/4396b9aa-892f-4975-9a22-51fb3ef4e135">
+
+<img width="650" alt="image" src="https://github.com/xiaoliang5939/coding3-final/assets/76156342/85d1b9d7-9258-4b2e-9259-54e82139f566">
+
+<img width="574" alt="image" src="https://github.com/xiaoliang5939/coding3-final/assets/76156342/d8612c89-c8cf-425b-a894-03e193183516">
+
+<img width="650" alt="image" src="https://github.com/xiaoliang5939/coding3-final/assets/76156342/85d1b9d7-9258-4b2e-9259-54e82139f566">
+
+
